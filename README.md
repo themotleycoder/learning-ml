@@ -3,6 +3,9 @@ I want to keep track of all the fantastic recommendations and resources availabl
 
 I plan to get started by skipping the math step as I really want to get to the coding etc, but will probably return to the math once I have some more time
 
+### 0. General Resouces
+- [StatQuest](https://statquest.org/)
+
 ### 1. Statistics Fundamentals
 - [An introduction to Statistical Learning](https://www.statlearning.com/)
 
