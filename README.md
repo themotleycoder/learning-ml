@@ -29,8 +29,9 @@ Or...
 
 ### 5. Machine Learning
 - [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (Costs money - but its the one that everyone references)
-- [TensorFlow]()
-- [PyTorch]()
-- [Huggingface]()
-- [Langchain]()
+- [TensorFlow](https://www.tensorflow.org/learn) - Offical Tensorflow learning track
+  - [7 HR Intro on Youtube](https://youtu.be/tPYj3fFJGjk?feature=shared)
+- PyTorch
+- Huggingface
+- Langchain
 
